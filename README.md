@@ -2,7 +2,7 @@
 
 ## Autor
 
-Fabio Andres Hurtado Cardona - 20202020120
+Fabio Andres Hurtado Cardona
 
 ## Descripción del Proyecto
 
