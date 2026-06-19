@@ -1,4 +1,4 @@
-# Entrega Final DASP
+# Recuperación de Diseño de Software para 23 Patrones de Diseño y 4 Patrones de Concurrencia
 
 ## Autor
 
